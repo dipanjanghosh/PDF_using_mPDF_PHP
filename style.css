@@ -1,0 +1,21 @@
+.page-heading {
+			margin-top: 10px;
+			margin-bottom: 20px;
+			font-weight: bold;
+			font-size: 25px;
+			border-bottom: 2px solid;
+			text-align: center;
+		}
+		.first-para {
+			background-color: #66CCFF;
+			margin-bottom: 20px;
+		}
+		.second-para {
+			background-color: #99CCCC;
+			margin-bottom: 20px;
+		}
+		.footer {
+			margin-top: 20px;
+			text-align: center;
+			color: #3300FF;
+		}
